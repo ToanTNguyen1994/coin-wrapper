@@ -53,4 +53,4 @@ console.log(`Dimes: ${wrappersDimes} wrapper(s), ${remainingDimes} loose coin(s)
 
 console.log(`Quarters: ${wrappersQuarters} wrapper(s), ${remainingQuarters} loose coin(s)`);
 
-console.log(`\nTotal Value: $${totalValue.toFixed(2)}`);
+console.log(`Total Value: $${totalValue.toFixed(2)}`);
